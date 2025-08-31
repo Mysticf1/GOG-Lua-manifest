@@ -1,0 +1,1 @@
+# GOG-Lua-manifest
